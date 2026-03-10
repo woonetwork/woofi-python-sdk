@@ -27,9 +27,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/woonetwork/woofi-cli"
-Repository = "https://github.com/woonetwork/woofi-cli"
-Issues = "https://github.com/woonetwork/woofi-cli/issues"
+Homepage = "https://github.com/woonetwork/woofi-python-sdk"
+Repository = "https://github.com/woonetwork/woofi-python-sdk"
+Issues = "https://github.com/woonetwork/woofi-python-sdk/issues"
 
 [project.optional-dependencies]
 dev = [
